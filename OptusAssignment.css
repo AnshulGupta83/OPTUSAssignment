@@ -1,0 +1,27 @@
+.ui-progressbar {
+  position: relative;
+  height: 25px;
+  width: 200px;
+}
+
+.progress-label-one {
+  position: absolute;
+  left: 40%;
+  top: 4px;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+.progress-label-two {
+  position: absolute;
+  left: 40%;
+  top: 4px;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+.ui-progressbar:hover {
+  border: 1px #9999EE solid;
+  background: #DDDDDD;
+}
+
